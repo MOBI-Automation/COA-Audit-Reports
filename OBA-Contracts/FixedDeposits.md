@@ -3,16 +3,16 @@
 <head>
 <style>
     .full-page {
-        width:  100%;
-        height:  100vh;
+        width: 100%;
+        height: 100vh;
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
     .full-page img {
-        max-width:  800px;
-        max-height:  800px;
+        max-width: 800px;
+        max-height: 800px;
         margin-bottom: 5rem;
     }
     .full-page div{
@@ -26,16 +26,15 @@
 <body>
 
 <div class="full-page">
-    <img src="" alt="Logo">
+    <h1>OBA Contracts Audit Report</h1>
+    <img src="https://gateway.pinata.cloud/ipfs/bafkreigfxwta4zheaulneqeojyvfzy4qismrtbejwdaebwq6epsq35c72u" alt="Logo">
     <div>
-    <h1>OBA Contract Suite Audit Report</h1>
-    <h3>Prepared by: <a href="https://github.com/MOBI-Automation">MOBI Automation</a></h3>
+    <h4>Updated: 10th June, 2026</h4>
     </div>
 </div>
 
 </body>
 </html>
-
 
 ---
 
